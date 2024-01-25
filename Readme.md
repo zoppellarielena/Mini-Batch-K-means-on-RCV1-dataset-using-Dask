@@ -26,5 +26,3 @@ This project was developed during August and September 2023 for the "Management 
 * Golan Rodrigo
 * Guercio Tommaso
 * Zoppellari Elena
-
-For consultation please contact: elenazoppellari@gmail.com
